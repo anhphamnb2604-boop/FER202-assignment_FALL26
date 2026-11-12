@@ -1,0 +1,1308 @@
+﻿{
+  "academyInfo": {
+    "name": "VN Pickleball Academy",
+    "certification": "USA Pickleball & PPR Certified Training Center",
+    "address": "Số 10 Mai Chí Thọ, Khu đô thị Sala, Phường Thủ Thiêm, TP. Thủ Đức, TP.HCM",
+    "hotline": "1900 6886",
+    "email": "tuyensinh@pickleball.edu.vn",
+    "openingHours": "05:30 - 22:30 (Thứ 2 - Chủ Nhật)"
+  },
+  "users": [
+    {
+      "id": "user-admin",
+      "name": "Trần Quốc Bảo",
+      "email": "admin@pickleball.edu.vn",
+      "password": "Admin@123",
+      "phone": "0901234567",
+      "role": "admin",
+      "status": "active",
+      "level": "DUPR 5.20 - Giám Đốc Học Viện",
+      "duprRating": 5.2,
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+      "address": "Khu đô thị Sala, Thủ Thiêm, TP. Thủ Đức, TP.HCM",
+      "joinedDate": "2024-01-10",
+      "specialty": "Quản trị vận hành & Tổ chức giải đấu USAPA"
+    },
+    {
+      "id": "user-coach-1",
+      "name": "HLV Nguyễn Hoàng Nam",
+      "email": "coach@pickleball.edu.vn",
+      "password": "Coach@123",
+      "phone": "0912345678",
+      "role": "coach",
+      "status": "active",
+      "level": "DUPR 5.15 - PPR Certified Pro",
+      "duprRating": 5.15,
+      "avatar": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=200&auto=format&fit=crop&q=80",
+      "address": "Quận 7, TP. Hồ Chí Minh",
+      "joinedDate": "2024-03-15",
+      "specialty": "Chiến thuật Đôi nâng cao, Third-shot Drop & Reset vùng Kitchen"
+    },
+    {
+      "id": "user-coach-2",
+      "name": "HLV Sarah Jenkins",
+      "email": "sarah.coach@pickleball.edu.vn",
+      "password": "Coach@123",
+      "phone": "0918889999",
+      "role": "coach",
+      "status": "active",
+      "level": "DUPR 5.00 - IPTPA Master Instructor",
+      "duprRating": 5,
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80",
+      "address": "Thảo Điền, TP. Thủ Đức, TP.HCM",
+      "joinedDate": "2024-04-01",
+      "specialty": "Kỹ thuật Dinking kiểm soát & Huấn luyện cá nhân 1-Kèm-1"
+    },
+    {
+      "id": "user-coach-3",
+      "name": "HLV Vũ Minh Quân",
+      "email": "quan.coach@pickleball.edu.vn",
+      "password": "Coach@123",
+      "phone": "0915556677",
+      "role": "coach",
+      "status": "active",
+      "level": "DUPR 4.65 - PPR Certified Coach",
+      "duprRating": 4.65,
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=80",
+      "address": "Quận Bình Thạnh, TP.HCM",
+      "joinedDate": "2024-05-20",
+      "specialty": "Chuẩn hóa bộ chân (Footwork), Giao bóng xoáy & Khối Cơ bản"
+    },
+    {
+      "id": "user-coach-4",
+      "name": "HLV Lê Phương Thảo",
+      "email": "thao.coach@pickleball.edu.vn",
+      "password": "Coach@123",
+      "phone": "0914443322",
+      "role": "coach",
+      "status": "active",
+      "level": "DUPR 4.35 - PPR Youth Specialty",
+      "duprRating": 4.35,
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&auto=format&fit=crop&q=80",
+      "address": "Quận 3, TP.HCM",
+      "joinedDate": "2024-06-12",
+      "specialty": "Đào tạo Pickleball thiếu nhi (Kids Junior) & Phái đẹp"
+    },
+    {
+      "id": "user-student",
+      "name": "Lê Minh Anh",
+      "email": "student@pickleball.edu.vn",
+      "password": "Student@123",
+      "phone": "0987654321",
+      "role": "student",
+      "status": "active",
+      "level": "DUPR 3.25 - Intermediate",
+      "duprRating": 3.25,
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&auto=format&fit=crop&q=80",
+      "address": "Thảo Điền, TP. Thủ Đức, TP.HCM",
+      "joinedDate": "2025-02-20",
+      "completedSessions": 6,
+      "totalSessions": 8
+    },
+    {
+      "id": "user-student-2",
+      "name": "Phạm Gia Huy",
+      "email": "huy.pham@gmail.com",
+      "password": "Student@123",
+      "phone": "0933445566",
+      "role": "student",
+      "status": "active",
+      "level": "DUPR 3.60 - Upper Intermediate",
+      "duprRating": 3.6,
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80",
+      "address": "Quận Bình Thạnh, TP.HCM",
+      "joinedDate": "2025-05-12",
+      "completedSessions": 8,
+      "totalSessions": 10
+    },
+    {
+      "id": "user-student-3",
+      "name": "Nguyễn Minh Đức",
+      "email": "duc.nguyen@doanhnghiep.vn",
+      "password": "Student@123",
+      "phone": "0908112233",
+      "role": "student",
+      "status": "active",
+      "level": "DUPR 3.75 - Tournament Player",
+      "duprRating": 3.75,
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&auto=format&fit=crop&q=80",
+      "address": "Khu đô thị Phú Mỹ Hưng, Quận 7, TP.HCM",
+      "joinedDate": "2025-07-01",
+      "completedSessions": 10,
+      "totalSessions": 10
+    },
+    {
+      "id": "user-student-4",
+      "name": "Trần Thanh Tâm",
+      "email": "tam.tran@techcorp.vn",
+      "password": "Student@123",
+      "phone": "0977889900",
+      "role": "student",
+      "status": "active",
+      "level": "DUPR 2.80 - Novice Plus",
+      "duprRating": 2.8,
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200&auto=format&fit=crop&q=80",
+      "address": "Vinhomes Central Park, Bình Thạnh, TP.HCM",
+      "joinedDate": "2025-08-18",
+      "completedSessions": 4,
+      "totalSessions": 8
+    },
+    {
+      "id": "user-student-5",
+      "name": "Võ Hoàng Khang",
+      "email": "khang.vo@gmail.com",
+      "password": "Student@123",
+      "phone": "0966554433",
+      "role": "student",
+      "status": "active",
+      "level": "DUPR 2.40 - Beginner",
+      "duprRating": 2.4,
+      "avatar": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?w=200&auto=format&fit=crop&q=80",
+      "address": "Quận 2, TP. Thủ Đức, TP.HCM",
+      "joinedDate": "2025-09-25",
+      "completedSessions": 2,
+      "totalSessions": 8
+    },
+    {
+      "id": "user-banned",
+      "name": "Đặng Văn Tùng",
+      "email": "tung.dang@spam.com",
+      "password": "123456",
+      "phone": "0999888777",
+      "role": "student",
+      "status": "banned",
+      "level": "Unrated",
+      "duprRating": 2,
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=80",
+      "address": "Quận 10, TP.HCM",
+      "joinedDate": "2025-06-01",
+      "completedSessions": 0,
+      "totalSessions": 0
+    }
+  ],
+  "coaches": [
+    {
+      "id": "coach-1",
+      "name": "HLV Nguyễn Hoàng Nam",
+      "title": "Giám đốc Chuyên môn / Head Coach",
+      "certification": "Chứng chỉ PPR Pro Level 3 (USA) • DUPR 5.15",
+      "experience": "8 năm kinh nghiệm Tennis & 5 năm huấn luyện Pickleball chuyên nghiệp",
+      "achievements": "Vô địch Đôi Nam Vietnam Open 2025, HCV PPA Asia Tour",
+      "avatar": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=500&auto=format&fit=crop&q=80",
+      "specialty": "Chiến thuật Đôi nâng cao, Third-shot Drop & Reset vùng Kitchen"
+    },
+    {
+      "id": "coach-2",
+      "name": "HLV Sarah Jenkins",
+      "title": "Chuyên gia Huấn luyện Quốc tế",
+      "certification": "IPTPA Master Instructor • DUPR 5.00",
+      "experience": "7 năm giảng dạy tại Florida Pickleball Academy (Mỹ)",
+      "achievements": "Top 8 US Open Pickleball Pro Mixed Doubles",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=500&auto=format&fit=crop&q=80",
+      "specialty": "Kỹ thuật Dinking kiểm soát, Phản xạ Volley tốc độ cao & Coaching 1-1"
+    },
+    {
+      "id": "coach-3",
+      "name": "HLV Vũ Minh Quân",
+      "title": "Huấn luyện viên Trưởng Khối Cơ bản & Phong trào",
+      "certification": "PPR Certified Coach • Cử nhân Huấn luyện TDTT",
+      "experience": "5 năm đào tạo hơn 1,200 học viên mới bắt đầu tại TP.HCM",
+      "achievements": "HCB Đôi Nam Giải Vô Địch Các CLB Toàn Quốc",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&auto=format&fit=crop&q=80",
+      "specialty": "Chuẩn hóa bộ chân (Footwork), Giao bóng xoáy & Luật thi đấu quốc tế"
+    },
+    {
+      "id": "coach-4",
+      "name": "HLV Lê Phương Thảo",
+      "title": "Huấn luyện viên Khối Trẻ Em (Kids) & Phái Đẹp",
+      "certification": "PPR Youth Specialty Certified • DUPR 4.35",
+      "experience": "4 năm phát triển thể chất và kỹ năng phản xạ vận động cho trẻ 6-15 tuổi",
+      "achievements": "Vô địch Đôi Nữ Giải Pickleball TP.HCM Mở Rộng",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=500&auto=format&fit=crop&q=80",
+      "specialty": "Đào tạo Pickleball thiếu nhi, Kỹ thuật giảm chấn thương & Phối hợp đồng đội"
+    },
+    {
+      "id": "coach-5",
+      "name": "HLV David Trần",
+      "title": "Chuyên gia Phân tích Kỹ thuật Biomechanics & Giải đấu",
+      "certification": "USAPA Certified Referee & PPR Pro • DUPR 4.90",
+      "experience": "6 năm huấn luyện đội tuyển trẻ tại California & Việt Nam",
+      "achievements": "Vô địch Đôi Nam Nữ Giải Quốc Tế Đà Nẵng Open 2025",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=500&auto=format&fit=crop&q=80",
+      "specialty": "Phân tích băng hình chuyển động, Cú đánh ATP, Erne & Đấu pháp đánh Đơn"
+    },
+    {
+      "id": "coach-6",
+      "name": "HLV Đỗ Hải Yến",
+      "title": "Huấn luyện viên Thể lực & Phục hồi Chấn thương Thể thao",
+      "certification": "ISSA Sports Conditioning & PPR Coach • DUPR 4.40",
+      "experience": "5 năm huấn luyện thể lực chuyên biệt cho VĐV Cầm vợt (Racket Sports)",
+      "achievements": "HCV Đôi Nữ Giải Các CLB Phía Nam 2025",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&auto=format&fit=crop&q=80",
+      "specialty": "Footwork đa hướng, Phòng ngừa hội chứng Pickleball Elbow & Khởi động chuyên sâu"
+    }
+  ],
+  "courseCategories": [
+    {
+      "id": "all",
+      "name": "Tất cả khóa học",
+      "badge": "8 lớp"
+    },
+    {
+      "id": "basic",
+      "name": "Cơ bản (Beginner)",
+      "badge": "DUPR 2.0 - 3.0"
+    },
+    {
+      "id": "advanced",
+      "name": "Nâng cao & Chiến thuật",
+      "badge": "DUPR 3.5+"
+    },
+    {
+      "id": "kids",
+      "name": "Trẻ em (Kids Junior)",
+      "badge": "6 - 15 tuổi"
+    },
+    {
+      "id": "private",
+      "name": "Huấn luyện 1 Kèm 1",
+      "badge": "Cá nhân hóa"
+    },
+    {
+      "id": "tournament",
+      "name": "Luyện thi đấu & Doanh nghiệp",
+      "badge": "Chuyên sâu"
+    }
+  ],
+  "courses": [
+    {
+      "id": "course-101",
+      "title": "Pickleball Khởi Đầu Toàn Diện (Beginner Foundation 2.0 - 3.0)",
+      "category": "basic",
+      "categoryLabel": "Cơ bản (Beginner)",
+      "level": "Người mới bắt đầu (Chưa từng cầm vợt)",
+      "duration": "8 buổi (4 tuần • 2 buổi/tuần • 120 phút/buổi)",
+      "tuition": 2400000,
+      "schedule": "Thứ 2 & Thứ 5 (18:30 - 20:30) hoặc Thứ 7 & CN (07:30 - 09:30)",
+      "coach": "HLV Vũ Minh Quân",
+      "coachAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=80",
+      "coachTitle": "PPR Certified Coach • DUPR 4.65",
+      "maxStudents": 8,
+      "enrolledCount": 6,
+      "rating": 4.95,
+      "reviewsCount": 142,
+      "featured": true,
+      "badge": "Phổ biến nhất",
+      "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=800&auto=format&fit=crop&q=80",
+      "summary": "Nắm vững luật chơi quốc tế, cách cầm vợt Continental, giao bóng (Serve), trả giao bóng sâu và kỹ thuật Dink kiểm soát tại vạch Non-Volley Zone (Kitchen).",
+      "benefits": [
+        "Miễn phí mượn vợt Carbon T700 và bóng thi đấu Franklin X-40 trong suốt khóa học",
+        "Nắm chắc luật tính điểm, vị trí đứng Đôi/Đơn và quy tắc 2-Bounce Rule chuẩn USAPA",
+        "Thực hành kỹ thuật Dink, Forehand/Backhand Drive, Volley và Footwork chuẩn y học thể thao",
+        "Đánh giá trình độ đầu ra DUPR và cấp chứng nhận hoàn thành khóa học cơ bản"
+      ],
+      "syllabus": [
+        "Buổi 1-2: Làm quen vợt, tư thế chuẩn (Ready Position), Luật Kitchen & Kỹ thuật Dink cơ bản",
+        "Buổi 3-4: Kỹ thuật Forehand & Backhand Groundstroke, Giao bóng (Serve) & Trả giao bóng sâu",
+        "Buổi 5-6: Di chuyển lên lưới (Transition Zone), Punch Volley & Block Volley",
+        "Buổi 7-8: Chiến thuật đánh đôi cơ bản, cách hô điểm 3 số và Thi đấu giao hữu cuối khóa"
+      ]
+    },
+    {
+      "id": "course-102",
+      "title": "Làm Chủ Chiến Thuật & Kỹ Thuật Nâng Cao (Intermediate/Advanced 3.5+)",
+      "category": "advanced",
+      "categoryLabel": "Nâng cao (Advanced)",
+      "level": "Trình độ DUPR 3.0 - 4.0",
+      "duration": "10 buổi (5 tuần • 2 buổi/tuần • 120 phút/buổi)",
+      "tuition": 3800000,
+      "schedule": "Thứ 3 & Thứ 6 (19:00 - 21:00)",
+      "coach": "HLV Nguyễn Hoàng Nam",
+      "coachAvatar": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=200&auto=format&fit=crop&q=80",
+      "coachTitle": "Giám đốc Chuyên môn • DUPR 5.15",
+      "maxStudents": 6,
+      "enrolledCount": 5,
+      "rating": 5,
+      "reviewsCount": 98,
+      "featured": true,
+      "badge": "Hot - Sắp kín chỗ",
+      "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=800&auto=format&fit=crop&q=80",
+      "summary": "Chinh phục cú Third-Shot Drop chuẩn xác, kỹ thuật Reset bóng tốc độ cao ở Transition Zone, Spin Dink tấn công và chiến thuật Stacking trong đánh đôi.",
+      "benefits": [
+        "Phân tích băng ghi hình chuyển động (Video Biomechanics Analysis) từng học viên",
+        "Làm chủ cú 3rd Shot Drop, 3rd Shot Drive kết hợp 5th Shot Drop lên lưới an toàn",
+        "Kỹ thuật phòng thủ Reset bóng mạnh vào vùng Kitchen và phản công tốc độ (Firefight)",
+        "Cập nhật điểm trình độ chính thức lên hệ thống DUPR quốc tế sau giải nội bộ"
+      ],
+      "syllabus": [
+        "Buổi 1-2: Tối ưu hóa 3rd Shot Drop (Forehand & Backhand) từ cuối sân vào Kitchen",
+        "Buổi 3-4: Di chuyển qua vùng Transition Zone & Kỹ thuật Reset bóng mạnh dưới chân",
+        "Buổi 5-6: Aggressive Topspin Dink, ATP (Around The Post) và Erne trên lưới",
+        "Buổi 7-8: Phản xạ tốc độ cao (Hand Speed Battle), Counter-attack & Nhử bóng (Poaching)",
+        "Buổi 9-10: Chiến thuật Stacking đánh đôi, tâm lý thi đấu và Đánh xếp hạng DUPR"
+      ]
+    },
+    {
+      "id": "course-103",
+      "title": "Huấn Luyện Cá Nhân 1 Kèm 1 (VIP Private Coaching 1-on-1)",
+      "category": "private",
+      "categoryLabel": "1 Kèm 1 (Private VIP)",
+      "level": "Mọi trình độ (Thiết kế giáo án riêng)",
+      "duration": "10 buổi (Linh hoạt giờ học theo lịch học viên • 90 phút/buổi)",
+      "tuition": 7500000,
+      "schedule": "Linh hoạt lựa chọn khung giờ (06:00 - 22:00 tất cả các ngày)",
+      "coach": "HLV Sarah Jenkins",
+      "coachAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80",
+      "coachTitle": "IPTPA Master Instructor • DUPR 5.00",
+      "maxStudents": 1,
+      "enrolledCount": 0,
+      "rating": 5,
+      "reviewsCount": 74,
+      "featured": true,
+      "badge": "Cam kết tiến bộ x3",
+      "image": "https://images.unsplash.com/photo-1595435934249-5df7ed86e1c0?w=800&auto=format&fit=crop&q=80",
+      "summary": "Chương trình huấn luyện cá nhân hóa 100% cùng chuyên gia quốc tế, tập trung sửa lỗi kỹ thuật chuyên sâu, sử dụng máy bắn bóng Titan Pro và đo lường hiệu suất.",
+      "benefits": [
+        "Đã bao gồm 100% chi phí thuê sân Indoor VIP có điều hòa và máy bắn bóng tự động",
+        "Chỉnh sửa chi tiết từng động tác vung vợt, góc mặt vợt và nhịp bước chân (Split-step)",
+        "Linh hoạt đổi lịch học trước 6 tiếng mà không mất buổi",
+        "Tặng 01 áo thi đấu Pro Performance của Học viện và quấn cán cao cấp"
+      ],
+      "syllabus": [
+        "Giai đoạn 1 (Buổi 1-2): Đánh giá toàn diện kỹ thuật hiện tại & Thiết lập mục tiêu cá nhân",
+        "Giai đoạn 2 (Buổi 3-6): Sửa lỗi chuyên sâu với hơn 500 bóng/buổi cùng máy bắn bóng & HLV",
+        "Giai đoạn 3 (Buổi 7-8): Tình huống mô phỏng thực chiến (Situational Drilling)",
+        "Giai đoạn 4 (Buổi 9-10): Thực chiến đánh đơn/đôi cùng HLV và Tổng kết hồ sơ kỹ thuật"
+      ]
+    },
+    {
+      "id": "course-104",
+      "title": "Trại Hè & Học Viện Pickleball Thiếu Nhi (Kids Junior Camp 6-15 Tuổi)",
+      "category": "kids",
+      "categoryLabel": "Trẻ em (Kids Junior)",
+      "level": "Trẻ em từ 6 - 15 tuổi",
+      "duration": "12 buổi (6 tuần • Thứ 7 & Chủ Nhật • 90 phút/buổi)",
+      "tuition": 2600000,
+      "schedule": "Thứ 7 & Chủ Nhật (08:30 - 10:00 hoặc 16:00 - 17:30)",
+      "coach": "HLV Lê Phương Thảo",
+      "coachAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&auto=format&fit=crop&q=80",
+      "coachTitle": "PPR Youth Specialty Certified",
+      "maxStudents": 10,
+      "enrolledCount": 7,
+      "rating": 4.92,
+      "reviewsCount": 89,
+      "featured": false,
+      "badge": "Phát triển thể chất",
+      "image": "https://images.unsplash.com/photo-1511886929837-354d827aae26?w=800&auto=format&fit=crop&q=80",
+      "summary": "Giúp trẻ rèn luyện thể lực, tăng cường phản xạ mắt - tay, tính kỷ luật và tinh thần đồng đội thông qua giáo trình Pickleball thiếu nhi chuẩn Mỹ vui nhộn, an toàn.",
+      "benefits": [
+        "Trang bị sẵn vợt Pickleball trọng lượng nhẹ chuyên dụng cho cổ tay trẻ em",
+        "Bài tập vận động đa hướng giúp tăng chiều cao, sự nhanh nhẹn và rời xa thiết bị điện tử",
+        "Môi trường song ngữ Anh - Việt năng động, an toàn tuyệt đối trong sân mái che",
+        "Giải đấu Junior Mini Cup cuối khóa với Huy chương và Giấy khen cho các bé"
+      ],
+      "syllabus": [
+        "Tuần 1-2: Trò chơi vận động phản xạ với bóng, cách cầm vợt và tâng bóng kiểm soát",
+        "Tuần 3-4: Kỹ thuật đánh bóng qua lưới Forehand/Backhand và Giao bóng chuẩn",
+        "Tuần 5: Học luật chơi, tinh thần Fair-play và phối hợp cùng bạn đồng hành",
+        "Tuần 6: Giải đấu Junior Mini Cup & Lễ trao huy chương hoàn thành khóa học"
+      ]
+    },
+    {
+      "id": "course-105",
+      "title": "Thực Chiến Giải Đấu & Nâng Hạng DUPR (Tournament Mastery Bootcamp)",
+      "category": "tournament",
+      "categoryLabel": "Luyện thi đấu (Pro)",
+      "level": "VĐV Phong trào nâng cao & Bán chuyên (DUPR 3.75+)",
+      "duration": "6 buổi chuyên sâu (3 tuần • 150 phút/buổi)",
+      "tuition": 3200000,
+      "schedule": "Thứ 4 (19:00 - 21:30) & Chủ Nhật (14:00 - 16:30)",
+      "coach": "HLV David Trần",
+      "coachAvatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&auto=format&fit=crop&q=80",
+      "coachTitle": "USAPA Referee & PPR Pro • DUPR 4.90",
+      "maxStudents": 8,
+      "enrolledCount": 6,
+      "rating": 4.96,
+      "reviewsCount": 51,
+      "featured": false,
+      "badge": "Chuyên sâu giải đấu",
+      "image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=800&auto=format&fit=crop&q=80",
+      "summary": "Bootcamp cường độ cao chuẩn bị cho các giải đấu phong trào & chuyên nghiệp: Chiến thuật đọc điểm yếu đối thủ, kiểm soát nhịp độ trận đấu và xử lý điểm Time-out.",
+      "benefits": [
+        "Thi đấu cọ xát tính điểm DUPR thực tế mỗi buổi học dưới sự giám sát của trọng tài USAPA",
+        "Chiến thuật Đôi Nam, Đôi Nữ và Đôi Nam Nữ (Mixed Doubles) chuyên biệt",
+        "Rèn luyện thể lực chuyên biệt (HIIT Footwork) và tâm lý bản lĩnh ở điểm Match Point",
+        "Hỗ trợ đăng ký tham gia các giải đấu CLB và toàn quốc cùng đội tuyển Học viện"
+      ],
+      "syllabus": [
+        "Buổi 1: Phân tích chiến thuật Mixed Doubles vs Gender Doubles",
+        "Buổi 2: Kỹ năng chuyển trạng thái Phòng thủ sang Tấn công (Counter-Punch)",
+        "Buổi 3: Khai thác khoảng trống trung lộ (Middle Riddle) và góc chéo sân",
+        "Buổi 4-5: Thi đấu mô phỏng áp lực cao (Pressure Drills) & Giải mã lối chơi đối phương",
+        "Buổi 6: Giải đấu xếp hạng nội bộ có tính điểm DUPR quốc tế"
+      ]
+    },
+    {
+      "id": "course-106",
+      "title": "Khóa Học Cấp Tốc Cuối Tuần Cho Doanh Nhân (Weekend Intensive Clinic)",
+      "category": "basic",
+      "categoryLabel": "Cơ bản (Beginner)",
+      "level": "Người bận rộn muốn biết chơi ngay sau 2 tuần",
+      "duration": "4 buổi chuyên sâu (2 tuần cuối tuần • 180 phút/buổi)",
+      "tuition": 2200000,
+      "schedule": "Thứ 7 & Chủ Nhật (15:00 - 18:00)",
+      "coach": "HLV Sarah Jenkins",
+      "coachAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&auto=format&fit=crop&q=80",
+      "coachTitle": "IPTPA Master Instructor",
+      "maxStudents": 6,
+      "enrolledCount": 4,
+      "rating": 4.88,
+      "reviewsCount": 62,
+      "featured": false,
+      "badge": "Tiết kiệm thời gian",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800&auto=format&fit=crop&q=80",
+      "summary": "Thiết kế cô đọng dành riêng cho người đi làm bận rộn: Chỉ sau 4 buổi chiều cuối tuần (12 giờ thực hành), học viên tự tin nắm luật và ra sân giao lưu đánh đôi.",
+      "benefits": [
+        "Giáo trình cô đọng 80% thực hành đánh bóng thực tế, 20% lý thuyết cốt lõi",
+        "Sân tập Indoor mát mẻ, phục vụ nước điện giải và khăn lạnh miễn phí",
+        "Kết nối cộng đồng CLB Doanh nhân Pickleball giao lưu hàng tuần",
+        "Hỗ trợ tư vấn chọn mua vợt phù hợp lối đánh với ưu đãi giảm 15% tại Pro Shop"
+      ],
+      "syllabus": [
+        "Buổi 1 (3h): Luật cốt lõi, Giao bóng, Trả giao bóng và Kiểm soát bóng vùng Kitchen",
+        "Buổi 2 (3h): Kỹ thuật Drive cuối sân, Drop bỏ nhỏ và Di chuyển đồng bộ 2 người",
+        "Buổi 3 (3h): Kỹ năng bắt lưới Volley, Smash bóng bổng và Phòng thủ cơ bản",
+        "Buổi 4 (3h): Thực chiến thi đấu Đôi xoay vòng & Giao lưu kết nối thành viên"
+      ]
+    },
+    {
+      "id": "course-107",
+      "title": "Lớp Pickleball Phái Đẹp & Giữ Dáng Năng Động (Ladies Fitness & Skill)",
+      "category": "basic",
+      "categoryLabel": "Cơ bản & Thể chất",
+      "level": "Dành riêng cho Học viên Nữ mọi lứa tuổi",
+      "duration": "8 buổi (4 tuần • Thứ 3 & Thứ 5 • 90 phút/buổi)",
+      "tuition": 2100000,
+      "schedule": "Ca sáng (08:30 - 10:00) hoặc Ca chiều (16:00 - 17:30)",
+      "coach": "HLV Đỗ Hải Yến",
+      "coachAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+      "coachTitle": "ISSA Sports Conditioning & PPR Coach",
+      "maxStudents": 8,
+      "enrolledCount": 5,
+      "rating": 4.95,
+      "reviewsCount": 78,
+      "featured": false,
+      "badge": "Dành riêng Phái đẹp",
+      "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&auto=format&fit=crop&q=80",
+      "summary": "Kết hợp hoàn hảo giữa đào tạo kỹ thuật Pickleball chuẩn xác và các bài tập Cardio đốt mỡ (500-700 kcal/buổi) trong sân Indoor máy lạnh mát mẻ, không lo nắng sạm da.",
+      "benefits": [
+        "Học tập hoàn toàn trong sân Indoor điều hòa mát lạnh, không lo tia UV",
+        "Kỹ thuật vung vợt nhẹ nhàng bằng lực hông và vai, không làm to cơ bắp tay",
+        "Bài tập khởi động và giãn cơ chuyên sâu giúp săn chắc vòng eo và đôi chân",
+        "Tặng bộ ảnh/video check-in thể thao chuyên nghiệp trên sân chuẩn quốc tế"
+      ],
+      "syllabus": [
+        "Buổi 1-2: Cardio Footwork, cách cầm vợt thẩm mỹ & Kỹ thuật Dink điều bóng nhẹ nhàng",
+        "Buổi 3-4: Kỹ thuật Forehand/Backhand mượt mà & Giao bóng ổn định 100%",
+        "Buổi 5-6: Phản xạ bắt lưới Volley & Cách di chuyển phối hợp ăn ý cùng đồng đội nữ",
+        "Buổi 7-8: Thi đấu Đôi Nữ & Đôi Nam Nữ giao lưu vui vẻ"
+      ]
+    },
+    {
+      "id": "course-108",
+      "title": "Đào Tạo & Tổ Chức Giải Đấu Pickleball Doanh Nghiệp (Corporate Team Building)",
+      "category": "tournament",
+      "categoryLabel": "Doanh nghiệp (Corporate)",
+      "level": "Nhóm nhân sự Công ty / CLB (Từ 12 - 40 người)",
+      "duration": "Trọn gói 1 ngày hoặc Khóa 4 buổi tại Học viện",
+      "tuition": 12500000,
+      "schedule": "Thiết kế riêng theo lịch sự kiện của Doanh nghiệp",
+      "coach": "HLV Nguyễn Hoàng Nam & Đội ngũ HLV",
+      "coachAvatar": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=200&auto=format&fit=crop&q=80",
+      "coachTitle": "Ban Huấn luyện & Trọng tài USAPA",
+      "maxStudents": 32,
+      "enrolledCount": 16,
+      "rating": 5,
+      "reviewsCount": 29,
+      "featured": false,
+      "badge": "Gói Doanh Nghiệp",
+      "image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=800&auto=format&fit=crop&q=80",
+      "summary": "Giải pháp Team Building thể thao xu hướng mới nhất cho doanh nghiệp: Huấn luyện cấp tốc cho toàn bộ nhân viên và tổ chức giải đấu nội bộ chuyên nghiệp có trọng tài, cúp & huy chương.",
+      "benefits": [
+        "Bao trọn cụm 4-6 sân tiêu chuẩn cùng 4 Huấn luyện viên hướng dẫn trực tiếp",
+        "Cung cấp toàn bộ 40 vợt tập, bóng thi đấu, bảng điểm điện tử và trọng tài điều hành",
+        "Hỗ trợ thiết kế Backdrop giải đấu, Cúp vô địch, Huy chương và khu vực Teabreak",
+        "Xuất hóa đơn VAT đầy đủ cho Doanh nghiệp và tập đoàn"
+      ],
+      "syllabus": [
+        "Phần 1 (90 phút): Khởi động tập thể, hướng dẫn luật chơi & Chia trạm tập kỹ thuật cơ bản",
+        "Phần 2 (60 phút): Ghép đôi chiến thuật và thi đấu vòng bảng sôi nổi",
+        "Phần 3 (60 phút): Vòng Bán kết, Chung kết có bình luận viên & Lễ trao Cúp vinh danh"
+      ]
+    }
+  ],
+  "courts": [
+    {
+      "id": "court-1",
+      "name": "Sân Trung Tâm Championship #1 (Indoor Pro)",
+      "type": "Indoor VIP (Có điều hòa)",
+      "surface": "Thảm Acrylic 9 lớp chuẩn PPA Tour (Chống lóa, giảm chấn khớp gối)",
+      "pricePerHour": 280000,
+      "peakPricePerHour": 350000,
+      "lighting": "Hệ thống đèn LED chống chói 1000 Lux chuẩn truyền hình",
+      "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=800&auto=format&fit=crop&q=80",
+      "amenities": [
+        "Điều hòa trung tâm",
+        "Camera AI quay highlight",
+        "Khán đài 60 chỗ",
+        "Ghế nghỉ VIP"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "court-2",
+      "name": "Sân Indoor Tiêu Chuẩn #2 (Air-Conditioned)",
+      "type": "Indoor VIP (Có điều hòa)",
+      "surface": "Thảm Acrylic 9 lớp chuẩn USA Pickleball",
+      "pricePerHour": 260000,
+      "peakPricePerHour": 320000,
+      "lighting": "Đèn LED chống chói 800 Lux",
+      "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=800&auto=format&fit=crop&q=80",
+      "amenities": [
+        "Điều hòa mát lạnh",
+        "Bảng điểm lật tay",
+        "Khu vực khởi động rộng",
+        "Tủ Locker miễn phí"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "court-3",
+      "name": "Sân Indoor Huấn Luyện #3 (Air-Conditioned)",
+      "type": "Indoor VIP (Có điều hòa)",
+      "surface": "Thảm Acrylic 9 lớp chuẩn USA Pickleball",
+      "pricePerHour": 260000,
+      "peakPricePerHour": 320000,
+      "lighting": "Đèn LED chống chói 800 Lux",
+      "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&auto=format&fit=crop&q=80",
+      "amenities": [
+        "Điều hòa mát lạnh",
+        "Gương chỉnh động tác",
+        "Rổ bóng tập 100 quả",
+        "Phòng tắm nước nóng"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "court-4",
+      "name": "Sân Mái Che Khí Động Học #4 (Covered Roof)",
+      "type": "Sân Mái Che Cao Cấp",
+      "surface": "Sơn phủ Laykold Cushion Plus 7 lớp đàn hồi cao",
+      "pricePerHour": 190000,
+      "peakPricePerHour": 240000,
+      "lighting": "Đèn LED chiếu sáng 750 Lux",
+      "image": "https://images.unsplash.com/photo-1595435934249-5df7ed86e1c0?w=800&auto=format&fit=crop&q=80",
+      "amenities": [
+        "Mái che chống mưa nắng 100%",
+        "Quạt công nghiệp làm mát",
+        "Nước uống miễn phí"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "court-5",
+      "name": "Sân Mái Che Kỹ Thuật #5 (Máy Bắn Bóng Titan)",
+      "type": "Sân Tập Kỹ Thuật & Thi Đấu",
+      "surface": "Sơn phủ Laykold Cushion Plus 7 lớp",
+      "pricePerHour": 210000,
+      "peakPricePerHour": 260000,
+      "lighting": "Đèn LED chiếu sáng 750 Lux",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800&auto=format&fit=crop&q=80",
+      "amenities": [
+        "Hỗ trợ thuê máy bắn bóng Titan",
+        "Rổ 100 bóng tập",
+        "Mái che thoáng mát"
+      ],
+      "status": "available"
+    },
+    {
+      "id": "court-6",
+      "name": "Sân Giao Lưu Cộng Đồng #6 (Outdoor Breezy)",
+      "type": "Sân Mái Che Tiêu Chuẩn",
+      "surface": "Sơn phủ Acrylic 7 lớp tiêu chuẩn USAPA",
+      "pricePerHour": 170000,
+      "peakPricePerHour": 220000,
+      "lighting": "Đèn LED chống lóa 700 Lux",
+      "image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=800&auto=format&fit=crop&q=80",
+      "amenities": [
+        "Không gian thoáng đãng",
+        "Khu vực Cafe & Lounge sát sân",
+        "Bãi đỗ xe ô tô miễn phí"
+      ],
+      "status": "available"
+    }
+  ],
+  "timeSlots": [
+    {
+      "id": "slot-1",
+      "time": "06:00 - 07:30",
+      "label": "Ca Sáng Sớm",
+      "isPeak": false
+    },
+    {
+      "id": "slot-2",
+      "time": "07:30 - 09:00",
+      "label": "Ca Sáng",
+      "isPeak": false
+    },
+    {
+      "id": "slot-3",
+      "time": "09:00 - 10:30",
+      "label": "Ca Sáng Muộn",
+      "isPeak": false
+    },
+    {
+      "id": "slot-4",
+      "time": "14:30 - 16:00",
+      "label": "Ca Chiều",
+      "isPeak": false
+    },
+    {
+      "id": "slot-5",
+      "time": "16:00 - 17:30",
+      "label": "Ca Chiều Mát",
+      "isPeak": false
+    },
+    {
+      "id": "slot-6",
+      "time": "17:30 - 19:00",
+      "label": "Giờ Vàng (Peak)",
+      "isPeak": true
+    },
+    {
+      "id": "slot-7",
+      "time": "19:00 - 20:30",
+      "label": "Giờ Vàng (Peak)",
+      "isPeak": true
+    },
+    {
+      "id": "slot-8",
+      "time": "20:30 - 22:00",
+      "label": "Ca Tối",
+      "isPeak": true
+    }
+  ],
+  "courtBookings": [
+    {
+      "id": "CB-1001",
+      "courtId": "court-1",
+      "courtName": "Sân Trung Tâm Championship #1 (Indoor Pro)",
+      "date": "2026-11-10",
+      "slotId": "slot-6",
+      "time": "17:30 - 19:00",
+      "customerName": "Lê Minh Anh",
+      "customerPhone": "0987654321",
+      "customerEmail": "student@pickleball.edu.vn",
+      "rentPaddleCount": 2,
+      "rentBallMachine": false,
+      "totalPrice": 625000,
+      "status": "confirmed",
+      "createdAt": "09/11/2026 14:20"
+    },
+    {
+      "id": "CB-1002",
+      "courtId": "court-2",
+      "courtName": "Sân Indoor Tiêu Chuẩn #2 (Air-Conditioned)",
+      "date": "2026-11-10",
+      "slotId": "slot-7",
+      "time": "19:00 - 20:30",
+      "customerName": "Phạm Gia Huy",
+      "customerPhone": "0933445566",
+      "customerEmail": "huy.pham@gmail.com",
+      "rentPaddleCount": 0,
+      "rentBallMachine": true,
+      "totalPrice": 630000,
+      "status": "confirmed",
+      "createdAt": "09/11/2026 18:05"
+    },
+    {
+      "id": "CB-1003",
+      "courtId": "court-4",
+      "courtName": "Sân Mái Che Khí Động Học #4 (Covered Roof)",
+      "date": "2026-11-10",
+      "slotId": "slot-2",
+      "time": "07:30 - 09:00",
+      "customerName": "Nguyễn Minh Đức",
+      "customerPhone": "0908112233",
+      "customerEmail": "duc.nguyen@doanhnghiep.vn",
+      "rentPaddleCount": 4,
+      "rentBallMachine": false,
+      "totalPrice": 485000,
+      "status": "confirmed",
+      "createdAt": "10/11/2026 06:45"
+    },
+    {
+      "id": "CB-1004",
+      "courtId": "court-5",
+      "courtName": "Sân Mái Che Kỹ Thuật #5 (Máy Bắn Bóng Titan)",
+      "date": "2026-11-10",
+      "slotId": "slot-5",
+      "time": "16:00 - 17:30",
+      "customerName": "Trần Thanh Tâm",
+      "customerPhone": "0977889900",
+      "customerEmail": "tam.tran@techcorp.vn",
+      "rentPaddleCount": 1,
+      "rentBallMachine": true,
+      "totalPrice": 515000,
+      "status": "confirmed",
+      "createdAt": "10/11/2026 10:15"
+    }
+  ],
+  "shopCategories": [
+    {
+      "id": "all",
+      "name": "Tất cả sản phẩm (12)"
+    },
+    {
+      "id": "paddle",
+      "name": "Vợt Pickleball (Paddles)"
+    },
+    {
+      "id": "ball",
+      "name": "Bóng Thi Đấu (Balls)"
+    },
+    {
+      "id": "shoes",
+      "name": "Giày Chuyên Dụng"
+    },
+    {
+      "id": "accessory",
+      "name": "Balo, Máy Bắn Bóng & Phụ Kiện"
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Vợt JOOLA Perseus Ben Johns CFS 16mm Carbon",
+      "category": "paddle",
+      "categoryLabel": "Vợt Chuyên Nghiệp",
+      "price": 5490000,
+      "originalPrice": 6200000,
+      "rating": 4.95,
+      "reviews": 86,
+      "stock": 15,
+      "badge": "Best Seller",
+      "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=600&auto=format&fit=crop&q=80",
+      "specs": "Mặt Carbon Friction • Lõi 16mm • Trọng lượng 226g • Chuẩn USAPA",
+      "description": "Vợt thi đấu chính thức của nhà vô địch thế giới Ben Johns. Mặt vợt Carbon Friction Surface tạo độ xoáy tối đa, lõi Honeycomb 16mm mở rộng điểm ngọt (Sweet Spot) giúp kiểm soát bóng hoàn hảo."
+    },
+    {
+      "id": "prod-2",
+      "name": "Vợt Selkirk Vanguard Power Air Invikta",
+      "category": "paddle",
+      "categoryLabel": "Vợt Tấn Công",
+      "price": 5850000,
+      "originalPrice": 6500000,
+      "rating": 4.92,
+      "reviews": 64,
+      "stock": 10,
+      "badge": "Pro Choice",
+      "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=600&auto=format&fit=crop&q=80",
+      "specs": "Thiết kế không viền • Khí động học Throat Hole • Sản xuất tại Mỹ",
+      "description": "Dòng vợt trợ lực và tạo xoáy đỉnh cao từ Selkirk USA. Hốc gió khí động học ở cổ vợt giúp tăng tốc độ vung vợt trong các pha đấu súng (Firefight) trên lưới."
+    },
+    {
+      "id": "prod-3",
+      "name": "Vợt Six Zero Double Black Diamond Control 16mm",
+      "category": "paddle",
+      "categoryLabel": "Vợt Kiểm Soát",
+      "price": 4200000,
+      "originalPrice": 4650000,
+      "rating": 4.88,
+      "reviews": 52,
+      "stock": 18,
+      "badge": "Hot Trend",
+      "image": "https://images.unsplash.com/photo-1595435934249-5df7ed86e1c0?w=600&auto=format&fit=crop&q=80",
+      "specs": "Mặt Raw Toray T700 Carbon • Công nghệ Thermoformed liền khối",
+      "description": "Sự cân bằng hoàn hảo giữa khả năng kiểm soát vùng Kitchen và sức mạnh tấn công. Phù hợp từ người chơi trình độ 3.0 đến VĐV giải đấu."
+    },
+    {
+      "id": "prod-4",
+      "name": "Vợt VN Pickleball Academy Starter Carbon T700 (Cho Học Viên Mới)",
+      "category": "paddle",
+      "categoryLabel": "Vợt Học Viên",
+      "price": 1450000,
+      "originalPrice": 1890000,
+      "rating": 4.89,
+      "reviews": 140,
+      "stock": 35,
+      "badge": "Trợ Giá Học Viên",
+      "image": "https://images.unsplash.com/photo-1511886929837-354d827aae26?w=600&auto=format&fit=crop&q=80",
+      "specs": "Lõi Polymer 16mm êm ái • Trọng lượng nhẹ 215g • Chống mỏi cổ tay",
+      "description": "Được thiết kế riêng bởi đội ngũ HLV Học viện dành cho người mới bắt đầu. Điểm ngọt lớn, giảm rung chấn tối đa giúp ngăn ngừa hội chứng đau khuỷu tay."
+    },
+    {
+      "id": "prod-5",
+      "name": "Vợt CRBN-1X Power Series 14mm Raw Carbon",
+      "category": "paddle",
+      "categoryLabel": "Vợt Tấn Công",
+      "price": 4950000,
+      "originalPrice": 5500000,
+      "rating": 4.91,
+      "reviews": 48,
+      "stock": 14,
+      "badge": "Power & Spin",
+      "image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=600&auto=format&fit=crop&q=80",
+      "specs": "Lõi 14mm • Viền Foam Unibody • Cán dài 5.5 inch cho Backhand 2 tay",
+      "description": "Cán cầm dài lý tưởng cho người chơi chuyển từ Tennis sang Pickleball yêu thích cú Two-handed Backhand Drive uy lực."
+    },
+    {
+      "id": "prod-6",
+      "name": "Hộp 12 Quả Bóng Thi Đấu Franklin X-40 Official Outdoor",
+      "category": "ball",
+      "categoryLabel": "Bóng Thi Đấu",
+      "price": 890000,
+      "originalPrice": 1050000,
+      "rating": 4.95,
+      "reviews": 215,
+      "stock": 50,
+      "badge": "Chuẩn US Open",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=600&auto=format&fit=crop&q=80",
+      "specs": "40 lỗ khoan chính xác bằng máy • Nhựa PE nguyên khối siêu bền",
+      "description": "Bóng thi đấu chính thức của giải US Open Pickleball Championships. Độ nảy chuẩn xác, đường bay ổn định và màu vàng Neon dễ quan sát dưới ánh đèn."
+    },
+    {
+      "id": "prod-7",
+      "name": "Hộp 12 Quả Bóng JOOLA Primo 40-Hole Tournament",
+      "category": "ball",
+      "categoryLabel": "Bóng Thi Đấu",
+      "price": 920000,
+      "originalPrice": 1100000,
+      "rating": 4.9,
+      "reviews": 94,
+      "stock": 40,
+      "badge": "Chống Nứt Vỡ",
+      "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=600&auto=format&fit=crop&q=80",
+      "specs": "40 lỗ khí động học • Chịu nhiệt tốt • Chuẩn PPA Tour",
+      "description": "Độ tròn đồng nhất, giữ form bền bỉ ngay cả khi tập luyện cường độ cao với máy bắn bóng."
+    },
+    {
+      "id": "prod-8",
+      "name": "Giày Pickleball Babolat Jet Mach 3 All Court",
+      "category": "shoes",
+      "categoryLabel": "Giày Chuyên Dụng",
+      "price": 3350000,
+      "originalPrice": 3800000,
+      "rating": 4.93,
+      "reviews": 57,
+      "stock": 12,
+      "badge": "Đế Michelin Chống Trượt",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&auto=format&fit=crop&q=80",
+      "specs": "Đế cao su Michelin • Công nghệ dệt Matryx EVO siêu nhẹ",
+      "description": "Hỗ trợ di chuyển ngang (Lateral Movement) và dừng đột ngột tại vạch Kitchen mà không lo lật cổ chân. Đế Michelin siêu bền trên mặt sân Acrylic."
+    },
+    {
+      "id": "prod-9",
+      "name": "Giày Asics Gel-Resolution 9 Pickleball Pro",
+      "category": "shoes",
+      "categoryLabel": "Giày Chuyên Dụng",
+      "price": 3590000,
+      "originalPrice": 4100000,
+      "rating": 4.96,
+      "reviews": 83,
+      "stock": 9,
+      "badge": "Bảo Vệ Cổ Chân Số 1",
+      "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=600&auto=format&fit=crop&q=80",
+      "specs": "Công nghệ DYNAWALL chống lật sơ-mi • Đệm Forefoot GEL êm ái",
+      "description": "Mẫu giày được các VĐV PPA Tour tin dùng nhiều nhất nhờ thanh giằng ổn định cổ chân tuyệt đối khi di chuyển cứu bóng ngang."
+    },
+    {
+      "id": "prod-10",
+      "name": "Balo Chuyên Dụng JOOLA Vision II Deluxe Backpack",
+      "category": "accessory",
+      "categoryLabel": "Balo & Phụ Kiện",
+      "price": 1950000,
+      "originalPrice": 2300000,
+      "rating": 4.87,
+      "reviews": 39,
+      "stock": 20,
+      "badge": "Ngăn Cách Nhiệt Vợt",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&auto=format&fit=crop&q=80",
+      "specs": "Chứa tối đa 4 vợt • Ngăn đựng giày riêng • Có móc treo hàng rào sân",
+      "description": "Balo thiết kế chuyên biệt cho VĐV Pickleball với ngăn bảo vệ vợt chống nhiệt, ngăn thông hơi đựng giày tập và hơn 8 ngăn phụ kiện thông minh."
+    },
+    {
+      "id": "prod-11",
+      "name": "Combo 6 Quấn Cán Yonex Super Grap & Băng Bảo Vệ Viền Vợt",
+      "category": "accessory",
+      "categoryLabel": "Balo & Phụ Kiện",
+      "price": 320000,
+      "originalPrice": 400000,
+      "rating": 4.94,
+      "reviews": 178,
+      "stock": 80,
+      "badge": "Phụ Kiện Thiết Yếu",
+      "image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=600&auto=format&fit=crop&q=80",
+      "specs": "Thấm hút mồ hôi vượt trội • Kèm băng dán bảo vệ đầu vợt Carbon",
+      "description": "Giúp tay cầm luôn khô thoáng, bám chắc trong những pha đánh tốc độ cao và bảo vệ viền vợt khỏi trầy xước khi cứu bóng sát mặt sân."
+    },
+    {
+      "id": "prod-12",
+      "name": "Lưới Pickleball Di Động Chuẩn Thi Đấu USAPA (Kèm Túi Kéo)",
+      "category": "accessory",
+      "categoryLabel": "Thiết Bị Sân Tập",
+      "price": 3450000,
+      "originalPrice": 3990000,
+      "rating": 4.89,
+      "reviews": 27,
+      "stock": 8,
+      "badge": "Lắp Ráp Trong 5 Phút",
+      "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=600&auto=format&fit=crop&q=80",
+      "specs": "Rộng 6.7m • Cao 91.4cm ở hai cột và 86.3cm ở tâm • Khung thép sơn tĩnh điện",
+      "description": "Hệ thống lưới di động có bánh xe khóa an toàn, dễ dàng biến bất kỳ khoảng sân phẳng nào thành sân tập Pickleball tiêu chuẩn quốc tế."
+    }
+  ],
+  "shopOrders": [
+    {
+      "id": "ORD-3001",
+      "customerName": "Lê Minh Anh",
+      "customerPhone": "0987654321",
+      "customerEmail": "student@pickleball.edu.vn",
+      "address": "Nhận trực tiếp tại Quầy Lễ tân Sân Sala Thủ Thiêm",
+      "paymentMethod": "Chuyển khoản VietQR",
+      "items": [
+        {
+          "product": {
+            "id": "prod-4",
+            "name": "Vợt VN Pickleball Academy Starter Carbon T700",
+            "price": 1450000
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "prod-11",
+            "name": "Combo 6 Quấn Cán Yonex Super Grap & Băng Bảo Vệ Viền Vợt",
+            "price": 320000
+          },
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 1770000,
+      "status": "delivered",
+      "createdAt": "05/11/2026 16:40"
+    },
+    {
+      "id": "ORD-3002",
+      "customerName": "Nguyễn Minh Đức",
+      "customerPhone": "0908112233",
+      "customerEmail": "duc.nguyen@doanhnghiep.vn",
+      "address": "Khu đô thị Phú Mỹ Hưng, Quận 7, TP.HCM",
+      "paymentMethod": "Chuyển khoản VietQR",
+      "items": [
+        {
+          "product": {
+            "id": "prod-1",
+            "name": "Vợt JOOLA Perseus Ben Johns CFS 16mm Carbon",
+            "price": 5490000
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "prod-6",
+            "name": "Hộp 12 Quả Bóng Thi Đấu Franklin X-40 Official Outdoor",
+            "price": 890000
+          },
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 6380000,
+      "status": "shipping",
+      "createdAt": "09/11/2026 11:20"
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "blog-1",
+      "title": "Toàn Tập Luật Chơi Pickleball Chuẩn Quốc Tế Cho Người Mới Bắt Đầu (Cập Nhật 2026)",
+      "category": "Luật Chơi & Kiến Thức Nền Tảng",
+      "readTime": "6 phút đọc",
+      "date": "05/11/2026",
+      "author": "HLV Vũ Minh Quân",
+      "authorRole": "PPR Certified Coach",
+      "image": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?w=800&auto=format&fit=crop&q=80",
+      "excerpt": "Giải thích dễ hiểu nhất về vùng Non-Volley Zone (Kitchen), quy tắc 2 lần nảy (Two-Bounce Rule), cách hô điểm 3 con số trong đánh đôi và lỗi giao bóng thường gặp.",
+      "content": [
+        "Pickleball là môn thể thao kết hợp tinh hoa của Tennis, Bóng bàn và Cầu lông, có tốc độ phát triển nhanh nhất thế giới nhờ tính kết nối cao và dễ làm quen chỉ sau 30 phút.",
+        "1. Quy tắc Giao bóng (The Serve): Người giao bóng phải đánh bóng dưới thắt lưng (Underhand), đầu vợt hướng xuống dưới khi tiếp xúc bóng. Bóng phải đi chéo sân và vượt qua vạch Non-Volley Zone (Kitchen) của đối phương.",
+        "2. Quy tắc Hai Lần Nảy (Two-Bounce Rule): Sau khi giao bóng, đội nhận bóng phải để bóng nảy 1 lần trên sân mình rồi mới được đánh trả. Tiếp đó, đội giao bóng cũng phải chờ bóng nảy 1 lần bên sân mình trước khi được phép lên lưới bắt Volley trên không.",
+        "3. Vùng Bếp - Non-Volley Zone (Kitchen): Khu vực 7 feet (2.13m) tính từ lưới về mỗi bên. Người chơi KHÔNG được đứng trong vùng Kitchen (hoặc giẫm lên vạch Kitchen) để đánh bóng trên không (Volley). Bạn chỉ được bước vào Kitchen khi bóng đã chạm đất nảy lên.",
+        "4. Cách tính điểm trong Đánh Đôi: Điểm số luôn được hô bằng 3 con số (Ví dụ: 0 - 0 - 2), lần lượt là: Điểm đội giao bóng - Điểm đội nhận bóng - Số thứ tự người giao bóng (1 hoặc 2). Trận đấu tiêu chuẩn kết thúc ở điểm 11 (cách 2 điểm)."
+      ]
+    },
+    {
+      "id": "blog-2",
+      "title": "Bí Quyết Thực Hiện Cú \"Third-Shot Drop\" Hoàn Hảo Để Làm Chủ Vạch Kitchen",
+      "category": "Kỹ Thuật & Chiến Thuật",
+      "readTime": "8 phút đọc",
+      "date": "02/11/2026",
+      "author": "HLV Nguyễn Hoàng Nam",
+      "authorRole": "Giám đốc Chuyên môn • DUPR 5.15",
+      "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=800&auto=format&fit=crop&q=80",
+      "excerpt": "Tại sao 90% người chơi phong trào thua điểm khi cố gắng đập bóng mạnh từ cuối sân? Khám phá kỹ thuật 3rd Shot Drop giúp bạn và đồng đội tiến lên lưới an toàn.",
+      "content": [
+        "Trong đánh đôi Pickleball, đội nào kiểm soát được vạch Non-Volley Zone (Kitchen) trước sẽ nắm giữ tới 75% cơ hội thắng điểm đó. Tuy nhiên, đội giao bóng luôn bị bất lợi vì phải đứng ở cuối sân chờ bóng nảy (theo luật 2-Bounce).",
+        "Cú đánh thứ 3 (Third-Shot Drop) chính là \"chìa khóa vàng\": Thay vì đánh mạnh (Drive) thẳng vào đối thủ đang đứng sẵn trên lưới chờ đập bóng xuống chân bạn, hãy thực hiện một cú bỏ nhỏ vòng cung mềm mại rơi ngay vào vùng Kitchen của đối phương.",
+        "3 Nguyên tắc cốt lõi của 3rd Shot Drop chuẩn xác:",
+        "• Cố định cổ tay (Firm Wrist) và mở mặt vợt khoảng 45 độ: Không vẩy cổ tay như cầu lông mà hãy dùng lực nâng từ vai và chân.",
+        "• Tiếp xúc bóng ở phía trước cơ thể: Đón bóng khi bóng đang ở đỉnh nảy hoặc vừa hạ xuống để kiểm soát lực tốt nhất.",
+        "• Nhắm mục tiêu cao hơn lưới khoảng 1-1.5 mét để bóng đạt đỉnh parabol bên phần sân mình trước khi rơi cắm xuống vùng Kitchen đối diện, tạo đủ 2 giây quý giá để cả hai đồng đội di chuyển lên lưới."
+      ]
+    },
+    {
+      "id": "blog-3",
+      "title": "Hướng Dẫn Chọn Vợt Pickleball Phù Hợp: Lõi 14mm hay 16mm? Mặt Carbon T700 Là Gì?",
+      "category": "Tư Vấn Dụng Cụ",
+      "readTime": "5 phút đọc",
+      "date": "28/10/2026",
+      "author": "HLV Sarah Jenkins",
+      "authorRole": "IPTPA Master Instructor",
+      "image": "https://images.unsplash.com/photo-1595435934249-5df7ed86e1c0?w=800&auto=format&fit=crop&q=80",
+      "excerpt": "Đừng vội mua cây vợt đắt nhất nếu chưa hiểu thông số! Cách phân biệt vợt thiên Công (Power) và vợt thiên Thủ/Kiểm soát (Control) chuẩn xác cho từng lối đánh.",
+      "content": [
+        "Một cây vợt phù hợp không chỉ giúp bạn nâng cao trình độ nhanh chóng mà còn bảo vệ cổ tay và khuỷu tay khỏi chấn thương khi tập luyện lâu dài.",
+        "1. Độ dày lõi vợt (13mm/14mm vs 16mm):",
+        "• Vợt 16mm (Control Paddle): Hấp thụ lực tốt hơn, giảm độ nảy hỗn loạn, cho cảm giác bóng êm ái và cực kỳ dễ thực hiện các cú Dink, Drop, Reset. Đây là lựa chọn số 1 cho 85% học viên mới và người chơi thiên về kiểm soát.",
+        "• Vợt 14mm (Power Paddle): Bóng bật ra khỏi mặt vợt nhanh và mạnh hơn, phù hợp người đã có nền tảng kỹ thuật vững muốn tăng uy lực cho cú Drive và Put-away.",
+        "2. Chất liệu mặt vợt: Nên ưu tiên mặt vợt Raw Carbon Fiber (T700) vì độ nhám tự nhiên giúp tạo xoáy (Spin) ổn định và bền bỉ hơn nhiều so với mặt Fiberglass sơn nhám thông thường."
+      ]
+    },
+    {
+      "id": "blog-4",
+      "title": "5 Bài Tập Khởi Động Chuyên Biệt Ngừa Chấn Thương Đầu Gối & Khuỷu Tay Khi Chơi Pickleball",
+      "category": "Y Học Thể Thao & Thể Lực",
+      "readTime": "5 phút đọc",
+      "date": "20/10/2026",
+      "author": "HLV Lê Phương Thảo",
+      "authorRole": "Chuyên gia Thể chất & Youth Coach",
+      "image": "https://images.unsplash.com/photo-1511886929837-354d827aae26?w=800&auto=format&fit=crop&q=80",
+      "excerpt": "Dành ra đúng 7 phút khởi động động (Dynamic Warm-up) trước khi vào sân giúp giảm 80% nguy cơ căng cơ bắp chân, lật cổ chân và viêm điểm bám gân lồi cầu ngoài.",
+      "content": [
+        "Nhiều người chơi phong trào lầm tưởng Pickleball nhẹ nhàng nên bước vào sân đánh ngay mà không khởi động kỹ. Thực tế, các pha đổi hướng ngang đột ngột và rướn người cứu bóng tại Kitchen đặt áp lực lớn lên gân Achilles, khớp gối và cổ tay.",
+        "Quy trình 7 phút khởi động chuẩn tại VN Pickleball Academy:",
+        "• Phút 1-2: Chạy bước nhỏ tại chỗ kết hợp xoay khớp cổ chân, khớp gối, hông và vai.",
+        "• Phút 3-4: Bước Shuffle ngang (Side-to-side) quanh vạch Kitchen kết hợp động tác Split-step hạ trọng tâm.",
+        "• Phút 5-6: Căng giãn nhóm cơ cẳng tay gấp - duỗi để phòng ngừa hội chứng Pickleball Elbow.",
+        "• Phút 7: Dink bóng nhẹ nhàng qua lại vùng Kitchen trong 2 phút trước khi lùi về cuối sân đánh mạnh."
+      ]
+    },
+    {
+      "id": "blog-5",
+      "title": "Hệ Thống Điểm Trình Độ DUPR Là Gì? Cách Từ Trình Độ 2.5 Lên 4.0 Nhanh Nhất",
+      "category": "Kiến Thức Giải Đấu & Xếp Hạng",
+      "readTime": "7 phút đọc",
+      "date": "15/10/2026",
+      "author": "HLV David Trần",
+      "authorRole": "USAPA Referee & PPR Pro • DUPR 4.90",
+      "image": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=800&auto=format&fit=crop&q=80",
+      "excerpt": "Tìm hiểu thang đo trình độ toàn cầu Dynamic Universal Pickleball Rating (DUPR) từ 2.0 đến 8.0 và những tiêu chí kỹ thuật phân định từng cấp bậc người chơi.",
+      "content": [
+        "DUPR (Dynamic Universal Pickleball Rating) là hệ thống tính điểm xếp hạng chính xác và uy tín nhất thế giới dành cho mọi người chơi Pickleball, tương tự như điểm ELO trong cờ vua hay NTRP trong Tennis.",
+        "Phân bậc trình độ DUPR phổ biến:",
+        "• DUPR 2.0 - 2.5 (Beginner): Nắm được luật cơ bản, biết giao bóng qua lưới và duy trì rally ngắn.",
+        "• DUPR 3.0 - 3.5 (Intermediate): Bắt đầu kiểm soát được hướng bóng, biết lên lưới sau khi trả giao bóng và bước đầu sử dụng cú 3rd Shot Drop.",
+        "• DUPR 4.0 - 4.5 (Advanced): Thành thạo cả tấn công (Drive/Volley) lẫn phòng thủ (Reset/Block), kiên nhẫn đấu Dink chiến thuật và hiếm khi tự đánh hỏng (Unforced Errors).",
+        "Tại VN Pickleball Academy, học viên được tham gia các buổi đánh xếp hạng DUPR định kỳ hàng tháng để ghi nhận tiến bộ chính thức trên hồ sơ quốc tế."
+      ]
+    },
+    {
+      "id": "blog-6",
+      "title": "Chiến Thuật Đánh Đôi Nam Nữ (Mixed Doubles): Cách Phối Hợp Và Che Chắn Khoảng Trống",
+      "category": "Kỹ Thuật & Chiến Thuật",
+      "readTime": "6 phút đọc",
+      "date": "10/10/2026",
+      "author": "HLV Đỗ Hải Yến",
+      "authorRole": "PPR Coach • Vô địch Đôi Nữ",
+      "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&auto=format&fit=crop&q=80",
+      "excerpt": "Trong nội dung Đôi Nam Nữ, làm thế nào để hóa giải chiến thuật dồn bóng vào một người của đối phương? Nghệ thuật Stacking và Poaching trên lưới.",
+      "content": [
+        "Đôi Nam Nữ (Mixed Doubles) là nội dung hấp dẫn nhưng cũng đòi hỏi tính chiến thuật và sự ăn ý cao nhất trong Pickleball.",
+        "1. Nguyên tắc \"Sợi dây vô hình\" (Moving as a Unit): Hai đồng đội luôn giữ khoảng cách ngang từ 2.5m - 3m. Khi người bên trái di chuyển ra biên cứu bóng, người bên phải phải lập tức dịch chuyển vào giữa sân để bịt kín khoảng trống trung lộ (Middle).",
+        "2. Chiến thuật Stacking: Sắp xếp vị trí để người có cú Forehand mạnh luôn đứng ở bên trái sân (nửa sân thuận tay vào giữa), giúp chủ động cắt bóng (Poach) và tạo áp lực lớn lên đối phương.",
+        "3. Giao tiếp tích cực trên sân: Luôn hô rõ \"Của mình!\" (Mine), \"Của bạn!\" (Yours) hoặc \"Bỏ!\" (Out/No) đối với các pha bóng đi vào khu vực giữa hai người hoặc bóng bay ra ngoài biên."
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "testi-1",
+      "name": "Anh Nguyễn Minh Đức (36 tuổi)",
+      "role": "Giám đốc Doanh nghiệp • Học viên Khóa Cơ bản & Nâng cao",
+      "courseTaken": "Làm Chủ Chiến Thuật & Kỹ Thuật Nâng Cao (3.5+)",
+      "rating": 5,
+      "duprProgress": "DUPR 2.2 ➔ 3.75 sau 2 tháng",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&auto=format&fit=crop&q=80",
+      "comment": "Trước khi vào Học viện mình tự tập theo YouTube nên bị sai tư thế cổ tay, đánh mạnh rất hay rúc lưới. Nhờ HLV Hoàng Nam chỉnh lại bộ chân Split-step và cú 3rd Shot Drop, giờ mình đã tự tin đứng lưới và vừa đạt giải Nhì Đôi Nam giải CLB Thủ Đức!",
+      "date": "Tháng 10/2026"
+    },
+    {
+      "id": "testi-2",
+      "name": "Chị Trần Thanh Tâm (29 tuổi)",
+      "role": "Product Manager • Học viên Khóa Cơ bản & Cuối tuần",
+      "courseTaken": "Pickleball Khởi Đầu Toàn Diện (Beginner 2.0 - 3.0)",
+      "rating": 5,
+      "duprProgress": "Người mới 100% ➔ Tự tin đánh đôi sau 4 tuần",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200&auto=format&fit=crop&q=80",
+      "comment": "Cơ sở vật chất của học viện thực sự đẳng cấp! Sân Indoor có máy lạnh mát rượi nên không sợ nắng đen da, mặt sân êm chân. Thầy Quân dạy cực kỳ tận tâm, vui tính, mượn vợt Joola xịn miễn phí suốt khóa học.",
+      "date": "Tháng 10/2026"
+    },
+    {
+      "id": "testi-3",
+      "name": "Chị Lê Hoàng Yến (Phụ huynh bé Gia Bảo 10 tuổi)",
+      "role": "Phụ huynh Học viên Khóa Kids Junior Camp",
+      "courseTaken": "Học Viện Pickleball Thiếu Nhi (6-15 Tuổi)",
+      "rating": 5,
+      "duprProgress": "Huy chương Vàng Junior Mini Cup",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&auto=format&fit=crop&q=80",
+      "comment": "Từ ngày đăng ký lớp cô Thảo và cô Sarah, bé nhà mình bỏ hẳn thói quen xem iPad cuối tuần. Bé nhanh nhẹn hơn hẳn, giao tiếp tiếng Anh tự nhiên với HLV và rất hào hứng mỗi thứ Bảy được ra sân cùng các bạn.",
+      "date": "Tháng 09/2026"
+    },
+    {
+      "id": "testi-4",
+      "name": "Anh Phạm Gia Huy (32 tuổi)",
+      "role": "Kỹ sư Phần mềm • Học viên Khóa 1 Kèm 1 & Giải đấu",
+      "courseTaken": "Huấn Luyện Cá Nhân 1 Kèm 1 (VIP Private Coaching)",
+      "rating": 5,
+      "duprProgress": "DUPR 2.8 ➔ 3.60 sau 10 buổi 1-1",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80",
+      "comment": "Tập 1 kèm 1 với cô Sarah và máy bắn bóng Titan thực sự đáng đồng tiền bát gạo. Trong 90 phút mình được chạm bóng hơn 500 lần, sửa triệt để lỗi mở mặt vợt khi Reset bóng căng.",
+      "date": "Tháng 10/2026"
+    },
+    {
+      "id": "testi-5",
+      "name": "Chị Vũ Ngọc Lan (34 tuổi)",
+      "role": "Trưởng phòng Nhân sự • Học viên Lớp Phái Đẹp",
+      "courseTaken": "Lớp Pickleball Phái Đẹp & Giữ Dáng Năng Động",
+      "rating": 5,
+      "duprProgress": "Giảm 3.5kg & Thành thạo đánh đôi",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+      "comment": "Lớp của cô Hải Yến vui cực kỳ! Vừa học kỹ thuật đánh bóng chuẩn không bị đau cổ tay, vừa kết hợp bài tập bước chân đốt mỡ. Sân thơm phức, phòng tắm và tủ Locker sạch đẹp như khách sạn 5 sao.",
+      "date": "Tháng 11/2026"
+    }
+  ],
+  "enrollments": [
+    {
+      "id": "ENR-2001",
+      "studentName": "Lê Minh Anh",
+      "studentPhone": "0987654321",
+      "studentEmail": "student@pickleball.edu.vn",
+      "courseId": "course-101",
+      "courseTitle": "Pickleball Khởi Đầu Toàn Diện (Beginner Foundation 2.0 - 3.0)",
+      "coachName": "HLV Vũ Minh Quân",
+      "tuition": 2400000,
+      "preferredSchedule": "Thứ 2 & Thứ 5 (18:30 - 20:30)",
+      "experienceLevel": "Người mới bắt đầu (Chưa từng chơi)",
+      "notes": "Mình muốn mượn vợt tập của học viện trong 2 buổi đầu.",
+      "attendance": "6/8 buổi",
+      "duprEvaluation": "DUPR 3.25 (Đạt chuẩn đầu ra khá giỏi)",
+      "coachFeedback": "Bộ chân Split-step tốt, kiểm soát Dink ổn định, cần tăng thêm độ sâu khi trả giao bóng.",
+      "status": "confirmed",
+      "createdAt": "01/11/2026 09:30"
+    },
+    {
+      "id": "ENR-2002",
+      "studentName": "Phạm Gia Huy",
+      "studentPhone": "0933445566",
+      "studentEmail": "huy.pham@gmail.com",
+      "courseId": "course-102",
+      "courseTitle": "Làm Chủ Chiến Thuật & Kỹ Thuật Nâng Cao (Intermediate/Advanced 3.5+)",
+      "coachName": "HLV Nguyễn Hoàng Nam",
+      "tuition": 3800000,
+      "preferredSchedule": "Thứ 3 & Thứ 6 (19:00 - 21:00)",
+      "experienceLevel": "Đã chơi 3-6 tháng (DUPR ~3.0)",
+      "notes": "Muốn tập trung cải thiện cú Backhand Roll và Third-shot Drop.",
+      "attendance": "8/10 buổi",
+      "duprEvaluation": "DUPR 3.60 (Đủ điều kiện thi đấu giải CLB)",
+      "coachFeedback": "Cú 3rd Shot Drop chéo sân rất ngọt, phản xạ Volley trên lưới nhanh nhạy.",
+      "status": "confirmed",
+      "createdAt": "03/11/2026 15:45"
+    },
+    {
+      "id": "ENR-2003",
+      "studentName": "Nguyễn Minh Đức",
+      "studentPhone": "0908112233",
+      "studentEmail": "duc.nguyen@doanhnghiep.vn",
+      "courseId": "course-105",
+      "courseTitle": "Thực Chiến Giải Đấu & Nâng Hạng DUPR (Tournament Mastery Bootcamp)",
+      "coachName": "HLV David Trần",
+      "tuition": 3200000,
+      "preferredSchedule": "Thứ 4 (19:00 - 21:30) & Chủ Nhật (14:00 - 16:30)",
+      "experienceLevel": "Trình độ Trung cấp / Nâng cao (DUPR 3.25+)",
+      "notes": "Đăng ký luyện thi đấu đôi nam giải mở rộng tháng 12.",
+      "attendance": "6/6 buổi (Hoàn thành)",
+      "duprEvaluation": "DUPR 3.75 (Hạng Nhì giải nội bộ)",
+      "coachFeedback": "Bản lĩnh tâm lý vững vàng ở điểm quyết định, chiến thuật Stacking phối hợp ăn ý.",
+      "status": "completed",
+      "createdAt": "25/10/2026 10:15"
+    },
+    {
+      "id": "ENR-2004",
+      "studentName": "Trần Thanh Tâm",
+      "studentPhone": "0977889900",
+      "studentEmail": "tam.tran@techcorp.vn",
+      "courseId": "course-107",
+      "courseTitle": "Lớp Pickleball Phái Đẹp & Giữ Dáng Năng Động (Ladies Fitness & Skill)",
+      "coachName": "HLV Đỗ Hải Yến",
+      "tuition": 2100000,
+      "preferredSchedule": "Thứ 3 & Thứ 5 (16:00 - 17:30)",
+      "experienceLevel": "Người mới bắt đầu (Chưa từng chơi)",
+      "notes": "Đăng ký học nhóm 2 người cùng đồng nghiệp.",
+      "attendance": "4/8 buổi",
+      "duprEvaluation": "DUPR 2.80 (Đang tiến bộ nhanh)",
+      "coachFeedback": "Tư thế Forehand đẹp, di chuyển linh hoạt, nắm bắt luật Kitchen rất nhanh.",
+      "status": "confirmed",
+      "createdAt": "06/11/2026 11:00"
+    },
+    {
+      "id": "ENR-2005",
+      "studentName": "Võ Hoàng Khang",
+      "studentPhone": "0966554433",
+      "studentEmail": "khang.vo@gmail.com",
+      "courseId": "course-103",
+      "courseTitle": "Huấn Luyện Cá Nhân 1 Kèm 1 (VIP Private Coaching 1-on-1)",
+      "coachName": "HLV Sarah Jenkins",
+      "tuition": 7500000,
+      "preferredSchedule": "Thứ 7 & Chủ Nhật (09:00 - 10:30)",
+      "experienceLevel": "Đã từng chơi Tennis / Cầu lông / Bóng bàn",
+      "notes": "Cần sửa thói quen gập cổ tay của cầu lông khi đánh Pickleball.",
+      "attendance": "2/10 buổi",
+      "duprEvaluation": "DUPR 2.40 (Đang chuẩn hóa động tác)",
+      "coachFeedback": "Đã khắc phục được 70% lỗi vẩy cổ tay, cảm giác mặt vợt khi Dink cải thiện rõ.",
+      "status": "pending",
+      "createdAt": "09/11/2026 17:20"
+    }
+  ],
+  "contactInquiries": [
+    {
+      "id": "CNT-5001",
+      "name": "Công ty Cổ phần Công nghệ VNG Cloud",
+      "phone": "0909123888",
+      "email": "hr@vngcloud.vn",
+      "subject": "Thuê cụm sân tổ chức Giải đấu Công ty / CLB",
+      "message": "Chào Học viện, bên mình muốn đặt trọn gói khóa huấn luyện & tổ chức giải đấu Team Building cho 32 nhân sự vào ngày Thứ Bảy tuần tới. Nhờ Học viện gửi báo giá chi tiết.",
+      "status": "new",
+      "createdAt": "10/11/2026 09:15"
+    },
+    {
+      "id": "CNT-5002",
+      "name": "Hoàng Minh Tuấn",
+      "phone": "0913456789",
+      "email": "tuan.hoang@gmail.com",
+      "subject": "Đăng ký học thử & Kiểm tra trình độ DUPR",
+      "message": "Mình đã chơi Tennis 3 năm và mới chuyển qua Pickleball được 1 tháng, muốn đăng ký kiểm tra điểm DUPR để xếp lớp Nâng cao tối Thứ 3 - Thứ 6.",
+      "status": "replied",
+      "createdAt": "09/11/2026 14:50"
+    }
+  ]
+}

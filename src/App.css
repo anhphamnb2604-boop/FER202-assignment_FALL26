@@ -1,0 +1,214 @@
+/* ==========================================================================
+   VN PICKLEBALL ACADEMY - RESPONSIVE STYLESHEET (320px Mobile -> 4K Desktop)
+   ========================================================================== */
+
+.vp-app-wrapper {
+  overflow-x: hidden;
+}
+
+.fw-extrabold {
+  font-weight: 800 !important;
+}
+
+.vp-text-lime {
+  color: #a3e635 !important;
+}
+
+.text-white-75 {
+  color: rgba(255, 255, 255, 0.88) !important;
+}
+
+.max-w-700 {
+  max-width: 700px;
+}
+
+/* Header & Navigation */
+.vp-header {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.vp-topbar {
+  background-color: #022c22;
+  border-bottom: 1px solid rgba(163, 230, 53, 0.2);
+}
+
+.vp-logo-icon {
+  width: 42px;
+  height: 42px;
+  background: linear-gradient(135deg, #a3e635 0%, #22c55e 100%);
+  flex-shrink: 0;
+}
+
+.vp-nav-link {
+  color: #f1f5f9 !important;
+  transition: all 0.15s ease;
+}
+
+.vp-nav-link:hover {
+  color: #ffffff !important;
+  background-color: rgba(255, 255, 255, 0.14) !important;
+}
+
+.vp-nav-active {
+  background: linear-gradient(135deg, #a3e635 0%, #4ade80 100%) !important;
+  color: #0f172a !important;
+  font-weight: 700 !important;
+}
+
+/* Custom Buttons */
+.vp-btn-lime {
+  background: linear-gradient(135deg, #a3e635 0%, #22c55e 100%);
+  color: #0f172a !important;
+  border: none;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.vp-btn-lime:hover {
+  background: linear-gradient(135deg, #bef264 0%, #4ade80 100%);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 20px rgba(163, 230, 53, 0.35);
+}
+
+.vp-btn-glass {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.vp-btn-glass:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+}
+
+/* Hero Section */
+.vp-hero {
+  background: radial-gradient(circle at 80% 20%, rgba(16, 185, 129, 0.28), transparent 45%),
+    linear-gradient(135deg, #0f172a 0%, #064e3b 100%);
+}
+
+.vp-badge-hero {
+  background-color: rgba(163, 230, 53, 0.14);
+  border: 1px solid rgba(163, 230, 53, 0.4);
+  color: #ecfccb;
+}
+
+.vp-hero-card {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  backdrop-filter: blur(8px);
+}
+
+.vp-hero-floating-badge {
+  background-color: #ffffff;
+  margin-top: -28px;
+  margin-left: 12px;
+  margin-right: 12px;
+  position: relative;
+  z-index: 3;
+}
+
+/* Page Sub-Headers */
+.vp-page-header {
+  background: linear-gradient(135deg, #0f172a 0%, #065f46 100%);
+}
+
+/* Feature & Course Cards */
+.vp-icon-box {
+  width: 48px;
+  height: 48px;
+  background-color: #ecfdf5;
+  color: #059669;
+}
+
+.vp-feature-card,
+.vp-course-card,
+.vp-coach-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.vp-feature-card:hover,
+.vp-course-card:hover,
+.vp-coach-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.1) !important;
+}
+
+/* Court Slot Active */
+.vp-slot-active {
+  background: linear-gradient(135deg, #059669 0%, #10b981 100%) !important;
+  color: #ffffff !important;
+  border-color: #059669 !important;
+}
+
+/* CTA & Footer */
+.vp-cta-banner {
+  background: linear-gradient(135deg, #064e3b 0%, #0f172a 100%);
+}
+
+.vp-footer {
+  background-color: #0f172a;
+}
+
+.vp-role-switcher {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(15, 23, 42, 0.95);
+  border-top: 1px solid rgba(163, 230, 53, 0.35);
+  z-index: 1040;
+}
+
+/* ==========================================================================
+   STRICT MOBILE RESPONSIVENESS GUARD (320px - 428px Viewports)
+   No layout breaking, no text overflow, no hidden buttons!
+   ========================================================================== */
+@media (max-width: 576px) {
+  .display-5 {
+    font-size: 1.75rem !important;
+  }
+
+  .lead {
+    font-size: 0.95rem !important;
+  }
+
+  .vp-hero-card img {
+    height: 230px !important;
+  }
+
+  .vp-page-header {
+    padding: 1.25rem !important;
+  }
+
+  .vp-page-header h1 {
+    font-size: 1.45rem !important;
+  }
+
+  .btn-lg {
+    font-size: 0.95rem !important;
+    padding: 0.65rem 1rem !important;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .modal-dialog {
+    margin: 0.5rem !important;
+  }
+}
+
+@media (max-width: 380px) {
+  .container {
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+  }
+
+  .display-5 {
+    font-size: 1.5rem !important;
+  }
+
+  .vp-logo-icon {
+    width: 34px;
+    height: 34px;
+  }
+}
